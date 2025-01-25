@@ -1,20 +1,11 @@
-# Ignore build directories
 bin/
 obj/
-
-# Ignore user-specific files
 *.user
 *.suo
 
-# Ignore database binary files
-*.db
-*.sqppro
-
-# Ignore temporary files
 *.log
 *.tmp
 
-# Ignore hidden system files
 .DS_Store
 Thumbs.db
 

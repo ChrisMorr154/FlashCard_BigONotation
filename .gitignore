@@ -6,10 +6,9 @@ obj/
 *.user
 *.suo
 
-# Ignore database files
+# Ignore database binary files
 *.db
 *.sqppro
-*.sql
 
 # Ignore temporary files
 *.log
@@ -18,3 +17,4 @@ obj/
 # Ignore hidden system files
 .DS_Store
 Thumbs.db
+
